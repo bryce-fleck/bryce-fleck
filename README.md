@@ -90,11 +90,11 @@ Meanwhile, I am revising and adding more skills.
 
 ### Contacts:
 
-- Linkedin: <https://www.linkedin.com/in/bryce-alan-fleck/>
+- [Linkedin](https://www.linkedin.com/in/bryce-alan-fleck/)
 
-- Portfolio: <https://bryce-fleck.com/>
+- [Portfolio](https://bryce-fleck.com/)
 
-- Email[fleckbrycealan@gmail.com]
+- [Email](fleckbrycealan@gmail.com)
 
 
 ### Thank you for reading :)
