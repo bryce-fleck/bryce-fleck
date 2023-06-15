@@ -94,5 +94,7 @@ Meanwhile, I am revising and adding more skills.
 
 - Portfolio: <https://bryce-fleck.com/>
 
+- Email[fleckbrycealan@gmail.com]
+
 
 ### Thank you for reading :)
