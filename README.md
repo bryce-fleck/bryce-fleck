@@ -94,6 +94,6 @@ Meanwhile, I am revising and adding more skills.
 
 - [Portfolio](https://bryce-fleck.com/)
 
-- <a href="fleckbrycealan@gmail.com" target="_blank">Email</a>
+- [Email](mailto:fleckbrycealan@gmail.com)
 
 ### Thank you for reading :)
