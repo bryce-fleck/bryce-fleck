@@ -13,7 +13,7 @@ Hi there 👋! My name is Bryce Fleck, I live in Arlington, WA.
 
 <tr>
 <td>React/Node/Laravel Developer</td>
-<td>[Bright Pattern](https://www.brightpattern.com/)</td>
+<td><a href="https://www.brightpattern.com/">Bright Pattern</a></td>
 <td>Sep 2018</td>
 <td>Feb 2023</td>
 <td>4 yrs 6 mos</td>
