@@ -12,15 +12,15 @@ Hi there 👋! My name is Bryce Fleck, I live in Arlington, WA.
 </tr>
 
 <tr>
-<td>React/Node/Laravel Developer</td>
+<td>Senior Full Stack Developer</td>
 <td><a href="https://www.brightpattern.com/">Bright Pattern</a></td>
 <td>Sep 2018</td>
-<td>Feb 2023</td>
-<td>4 yrs 6 mos</td>
+<td>Apr 2023</td>
+<td>4 yrs 8 mos</td>
 </tr>
 
 <tr>
-<td>React/Node Developer</td>
+<td>Full Stack Developer</td>
 <td><a href="https://coalitiontechnologies.com/">Coalition Technologies</a></td>
 <td>Oct 2016</td>
 <td>Sep 2018</td>
@@ -28,16 +28,16 @@ Hi there 👋! My name is Bryce Fleck, I live in Arlington, WA.
 </tr>
 
 <tr>
-<td>Laravel Developer</td>
-<td><a href="https://www.jordancrown.com/">Jordan Crown Web Design</a></td>
+<td>Senior Web Developer</td>
+<td><a href="https://tanzu.vmware.com/tanzu">Pivotal Software, Inc.</a></td>
 <td>May 2012</td>
 <td>Oct 2016</td>
 <td>4 yrs 6 mos</td>
 </tr>
 
 <tr>
-<td>Web Developer(HTML/CSS/jQuery/PHP)</td>
-<td><a href="https://www.xait.com/fr/jack-contactez-nous">Jack - An Xait Company</a></td>
+<td>Web Developer</td>
+<td><a href="https://www.sw.siemens.com/en-US/">Siemens PLM Software</a></td>
 <td>Aug 2010</td>
 <td>Aug 2012</td>
 <td>2 yrs 1 mo</td>
